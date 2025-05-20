@@ -41,6 +41,7 @@ Shfty is a bot for a popular communication application, Discord. Shfty was built
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Discord.JS](https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000000?logo=mongoose&logoColor=red)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white)
 
 ### Webpage Canvas
 
