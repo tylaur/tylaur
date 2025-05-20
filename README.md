@@ -12,12 +12,14 @@ Dark-mode proponent. Objectively, the best color is blue.
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Koa](https://img.shields.io/badge/-Koa-333333?logoColor=white)
+![Koa](https://img.shields.io/badge/-Koa-333333?logo=koa&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
+### What I'm working on 💻
