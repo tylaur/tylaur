@@ -45,5 +45,5 @@ It has been built to be simple, efficient, and most of all: useful.
 ![OpenSteetMap API](https://img.shields.io/badge/-OpenSteetMap%20API-3f8510?logo=openstreetmap&logoColor=white)
 ![Ticketmaster API](https://img.shields.io/badge/-Ticketmaster%20API-026CDF?logo=ticketmaster&logoColor=white)
 
-<img src="./public/pinpoint/fav_list.png" width="500" />
-<img src="./public/pinpoint/pin_view.png" width="500" />
+<img src="./public/pinpoint/fav_list.png" height="300" />
+<img src="./public/pinpoint/pin_view.png" height="300" />
