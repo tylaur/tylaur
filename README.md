@@ -7,9 +7,9 @@ Dark-mode proponent. Objectively, the best color is blue.
 ## My Stack 📚
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
@@ -51,9 +51,9 @@ Webpage Canvas is a Chrome Extension that allows users to annotate any webpage w
 <img src="./public/webpagecanvas/demo.png" width="500" />
 
 #### Teck Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white)
 
 ### PinPoint
 ##### Repo: [tylaur/pinpoint](https://github.com/tylaur/pinpoint)
