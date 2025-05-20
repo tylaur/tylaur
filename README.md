@@ -28,6 +28,7 @@ Dark-mode proponent. Objectively, the best color is blue.
 ## What I'm working on 💻
 
 ### Shfty
+
 ##### Repo: Private
 
 Shfty is a bot for a popular communication application, Discord. Shfty was built to effortlessly automate common tasks for servers.
@@ -42,6 +43,7 @@ Shfty is a bot for a popular communication application, Discord. Shfty was built
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000000?logo=mongoose&logoColor=red)
 
 ### Webpage Canvas
+
 ##### Repo: [tylaur/webpage-canvas](https://github.com/tylaur/webpage-canvas)
 
 Webpage Canvas is a Chrome Extension that allows users to annotate any webpage with ease.
@@ -56,6 +58,7 @@ Webpage Canvas is a Chrome Extension that allows users to annotate any webpage w
 ![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white)
 
 ### PinPoint
+
 ##### Repo: [tylaur/pinpoint](https://github.com/tylaur/pinpoint)
 
 PinPoint is a real-time travel companion. Adventure on demand, wherever you land.
