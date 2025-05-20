@@ -8,6 +8,8 @@ Dark-mode proponent. Objectively, the best color is blue.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
@@ -25,7 +27,36 @@ Dark-mode proponent. Objectively, the best color is blue.
 
 ## What I'm working on 💻
 
+### Shfty
+##### Repo: Private
+
+Shfty is a bot for a popular communication application, Discord. Shfty was built to effortlessly automate common tasks for servers.
+• Maintains over 4,000 total users.
+• Boasting over 100 users on a daily basis.
+• Offers seamless shift and moderation management for roleplay-related servers.
+• Allows users to set up to 400 reminders at any given time.
+
+#### Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Discord.JS](https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000000?logo=mongoose&logoColor=red)
+
+### Webpage Canvas
+##### Repo: [tylaur/webpage-canvas](https://github.com/tylaur/webpage-canvas)
+
+Webpage Canvas is a Chrome Extension that allows users to annotate any webpage with ease.
+• Excellent for studying purposes - no need for screenshots, come back at any time to continue where you left off.
+• Transform any web page with 3 key markup functionalities - highlighers, free-draw, and erasers.
+
+<img src="./public/webpagecanvas/demo.png" width="500" />
+
+#### Teck Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=black)
+
 ### PinPoint
+##### Repo: [tylaur/pinpoint](https://github.com/tylaur/pinpoint)
 
 PinPoint is a real-time travel companion. Adventure on demand, wherever you land.
 • Displays up to 400 local events, activities & restaurants within a 5-mile radius to users.
@@ -45,7 +76,7 @@ It has been built to be simple, efficient, and most of all: useful.
 ![OpenSteetMap API](https://img.shields.io/badge/-OpenSteetMap%20API-3f8510?logo=openstreetmap&logoColor=white)
 ![Ticketmaster API](https://img.shields.io/badge/-Ticketmaster%20API-026CDF?logo=ticketmaster&logoColor=white)
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; gap: 20px;">
      <img src="./public/pinpoint/fav_list.png" height="350" />
      <img src="./public/pinpoint/pin_view.png" height="350" />
 </div>
